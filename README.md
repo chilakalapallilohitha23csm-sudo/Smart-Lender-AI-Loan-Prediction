@@ -4,6 +4,15 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KNN-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7)](https://smart-lender-ai-loan-prediction.onrender.com)
+
+---
+
+## 🌐 Live Application
+
+🔗 **Try it here:** [https://smart-lender-ai-loan-prediction.onrender.com](https://smart-lender-ai-loan-prediction.onrender.com)
+
+> The app is hosted on Render's free tier, so the first load may take a few seconds while the server wakes up.
 
 ---
 
@@ -13,7 +22,7 @@ Smart Lender is a Machine Learning-powered web application that predicts whether
 
 The application helps financial institutions make faster, consistent, and data-driven lending decisions by using machine learning algorithms trained on historical loan application data.
 
-The trained model is deployed using **Flask**, allowing users to submit loan details through a web interface and receive real-time predictions.
+The trained model is deployed using **Flask**, allowing users to submit loan details through a web interface and receive real-time predictions. The deployed version is available at the [live app link](https://smart-lender-ai-loan-prediction.onrender.com).
 
 ---
 
@@ -26,6 +35,7 @@ The trained model is deployed using **Flask**, allowing users to submit loan det
 - Machine Learning model comparison
 - Confidence-based prediction
 - Responsive UI
+- Live deployment on Render ([view app](https://smart-lender-ai-loan-prediction.onrender.com))
 - Easy deployment on IBM Cloud
 
 ---
@@ -140,6 +150,11 @@ Target Variable:
 - Matplotlib
 - Joblib
 
+### Deployment
+
+- Render (live app)
+- IBM Cloud (supported)
+
 ---
 
 ## 🔄 Machine Learning Workflow
@@ -158,6 +173,8 @@ Target Variable:
 ---
 
 ## ▶️ How to Run
+
+Want to try it without installing anything? Use the [live app](https://smart-lender-ai-loan-prediction.onrender.com). To run it locally:
 
 ### Clone Repository
 
