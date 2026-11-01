@@ -255,7 +255,7 @@ Evaluation Metrics:
 
 ## 👨‍💻 Author
 
-**Cheradeep Ganta**
+**Lohitha Chilakalapalli**
 
 B.Tech CSE (AI & ML)
 
